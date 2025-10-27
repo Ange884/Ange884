@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on [**Expenzify**](https://github.com/Ange884/Expenzify.git)  
+- 🔭 I’m currently working on [**MotherLink-mobile**](https://github.com/Ange884/MotherLink-Mobile.git)  
 - 🌱 I’m currently learning **React Native (Expo)**  
 - 💬 Ask me about **React.js, Next.js, Express.js**  
 - 📫 How to reach me: **ishimwenzizaangell@gmail.com**  
